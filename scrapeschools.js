@@ -1,6 +1,5 @@
 const request = require('request');
 const cheerio = require('cheerio');
-const fs = require('fs').promises;
 
 // 1. NIGERIAN UNIVERISTY = https://www.nuc.edu.ng/nigerian-univerisities/federal-univeristies/
 // 2. STATE UNIVERISTY = https://www.nuc.edu.ng/nigerian-univerisities/state-univerisity/
